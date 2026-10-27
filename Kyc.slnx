@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Kyc.Api/Kyc.Api.csproj" />
+  <Project Path="src/Kyc.Application/Kyc.Application.csproj" />
+  <Project Path="src/Kyc.Infrastructure/Kyc.Infrastructure.csproj" />
+  <Project Path="tests/Kyc.Application.Tests/Kyc.Application.Tests.csproj" />
+</Solution>
